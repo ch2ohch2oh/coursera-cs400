@@ -1,6 +1,6 @@
-*/.objs
-*.o
-*.d
-.vscode
-*/main
-**/main
+*
+!*.c??
+!*.h??
+!.md
+!.mk
+!Makefile
