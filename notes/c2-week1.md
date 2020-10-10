@@ -1,4 +1,4 @@
-## Week 5 Notes
+## Linear Structures
 
 ### Amortized running time
 
